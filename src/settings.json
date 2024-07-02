@@ -1,0 +1,66 @@
+{
+  "components": [
+    {
+      "id": "BannerWithButton",
+      "variables": {
+        "eventDescription": "Join us for the highly anticipated Meetup 2025 event and be inspired!",
+        "eventName": "Meetup 2025",
+        "linkText": "Register Today"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Explore, Learn, and Share to Inspire Innovation.",
+        "title": "Ignite Your Curiosity with Yay!"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Explore, Learn, and Share to Inspire Innovation.",
+        "title": "Ignite Your Curiosity with Yay!"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Explore, Learn, and Share to Inspire Innovation.",
+        "title": "Ignite Your Curiosity with Yay!"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Explore, Learn, and Share to Inspire Innovation.",
+        "title": "Ignite Your Curiosity with Yay!"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Explore, Learn, and Share to Inspire Innovation.",
+        "title": "Ignite Your Curiosity with Yay!"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "buttonText": "Subscribe Now",
+        "description": "Join our community and get weekly updates packed with technical know-how, exclusive content, and inspirational stories from industry experts. Subscribe now!",
+        "heading": "Stay Informed with Our Technical Insights"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Explore, Learn, and Share to Inspire Innovation.",
+        "title": "Ignite Your Curiosity with Yay!"
+      }
+    }
+  ],
+  "theme": "dark",
+  "font": "",
+  "title": "Ignite Your Curiosity with Yay!",
+  "subtitle": "Explore, Learn, and Share to Inspire Innovation."
+}
